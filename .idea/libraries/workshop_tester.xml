@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="workshop-tester">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/workshop-tester.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

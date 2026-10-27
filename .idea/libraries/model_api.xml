@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="model-api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/model-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
